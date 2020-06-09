@@ -1,0 +1,6 @@
+autotests\pages\Juicers.class
+autotests\pages\ChooseCity.class
+autotests\Config.class
+autotests\pages\LogIn.class
+autotests\TestAllCases.class
+autotests\ShellWebDriver.class
